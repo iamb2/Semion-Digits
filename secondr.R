@@ -1,9 +1,5 @@
 #######################################################
 # This code utilizes kNN for different values of k
-#
-# Rachael Hageman Blair
-# Created: 8/1/2012
-# Modified: 9/12/2019
 #######################################################
 
 rm(list = ls())
